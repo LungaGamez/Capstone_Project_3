@@ -1,0 +1,6 @@
+Total number of users registered: 9
+Total number of tasks: 12
+Percentage of number of tasks assigned: %25
+Percentage of completed assigned tasks: %33
+Percentage of incomplete assigned tasks: %1
+Percentage of incomplete and overdue assigned tasks: %67

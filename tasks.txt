@@ -1,0 +1,12 @@
+admin, 1001, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+zola, 1002, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+Lunga, 1003, Task 20, Portfolio project about task management., 15 May 2021, 22 Apr 2021, No
+onele, 1004, Financial Calculator, Calculates bank interest, 19 Apr 2021, 22 Apr 2021, Yes
+jack, 1005, Police Officer, Protects South African Citizens., 23 Jul 2021, 22 Apr 2021, No
+lien, 1006, Stylists, Styling celebrities., 1 May 2021, 22 Apr 2020, Yes
+lien, 1007, App advert, Contact advertising agency to set up a meeting., 14 May 2021, 01 May 2021, No
+admin, 1008, Report, Admin should generate a report of all tasks., 7 May 2021, 05 May 2021, Yes
+admin, 1009, Personal Trainer, Training individuals at the gym., 5 Jun 2021, 05 May 2021, No
+lien, 1010, Soccer Player, Plays Premeir Legue, 20 Jan 2020, 29 Nov 2021, No
+Bongani, 1011, Software Engineer, Codes and develops applications., 20 Feb 2021, 29 Nov 2021, No
+Comp, 1012, Co1, IT administrator, 12 Feb 2013, 29 Nov 2021, No
